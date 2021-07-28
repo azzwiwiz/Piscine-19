@@ -6,18 +6,30 @@
 /*   By: mazzouz <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/07/27 15:08:10 by mazzouz           #+#    #+#             */
-/*   Updated: 2021/07/27 17:18:50 by mazzouz          ###   ########.fr       */
+/*   Updated: 2021/07/28 15:58:35 by mazzouz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+#include <unistd.h>
 
 int	ft_sqrt(int	nb)
 {
-	long int	i;
+	int	i;
+	int	racine;
 
-	if (nb < 1)
-		return (0);
 	i = 1;
-	while ((i * i) < (long int)nb)
-		i++;
-	return (i);
+	racine = 1;
+	while (i < nb && racine < nb && i <= 46340)
+	{
+		racine = i * i;
+		if (racine != nb)
+			i++;
+	}
+	if (racine == nb)
+	{
+		return (i);
+	}
+	else
+	{
+		return (0);
+	}
 }
