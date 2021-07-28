@@ -1,0 +1,5 @@
+Credentials cache: API:6801EF43-E724-4384-9B68-188C7277150D
+        Principal: aleborgn@S19.BE
+
+  Issued                Expires               Principal
+Jul  5 10:29:11 2021  Jul  5 20:29:11 2021  krbtgt/S19.BE@S19.BE

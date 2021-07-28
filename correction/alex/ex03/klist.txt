@@ -1,0 +1,5 @@
+Credentials cache: API:29B0B17E-426A-4905-A8D4-186E85919F2E
+        Principal: agoloube@S19.BE
+
+  Issued                Expires               Principal
+Jul  5 17:58:51 2021  Jul  6 03:58:40 2021  krbtgt/S19.BE@S19.BE

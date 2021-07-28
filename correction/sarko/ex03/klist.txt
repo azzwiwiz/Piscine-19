@@ -1,0 +1,5 @@
+Credentials cache: API:3B48A541-8471-4B88-B893-46FF5DDF79DE
+        Principal: ssancak@S19.BE
+
+  Issued                Expires               Principal
+Jul  5 16:06:55 2021  Jul  6 02:06:55 2021  krbtgt/S19.BE@S19.BE

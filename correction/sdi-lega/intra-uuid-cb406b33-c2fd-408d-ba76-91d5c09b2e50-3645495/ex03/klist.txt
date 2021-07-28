@@ -1,0 +1,5 @@
+Credentials cache: API:F78FCE6A-52CD-4231-996E-82A40EEC064F
+        Principal: sdi-lega@S19.BE
+
+  Issued                Expires               Principal
+Jul  5 11:00:02 2021  Jul  5 20:59:49 2021  krbtgt/S19.BE@S19.BE

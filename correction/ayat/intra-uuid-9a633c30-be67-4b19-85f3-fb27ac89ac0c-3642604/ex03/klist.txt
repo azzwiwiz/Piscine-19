@@ -1,0 +1,5 @@
+Credentials cache: API:9932EAD6-0EBA-423E-9855-4138063BA969
+        Principal: ahzami@S19.BE
+
+  Issued                Expires               Principal
+Jul  5 16:30:11 2021  Jul  6 02:30:06 2021  krbtgt/S19.BE@S19.BE

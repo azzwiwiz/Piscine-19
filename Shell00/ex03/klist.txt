@@ -1,0 +1,4 @@
+ API:519217FB-5B8C-4949-A151-16433AD841F5
+        Principal: mazzouz@S19.BE
+Issued                Expires               Principal
+Jul  5 16:54:34 2021  Jul  6 02:54:34 2021  krbtgt/S19.BE@S19.BE

@@ -1,0 +1,5 @@
+Credentials cache: API:E2B6743C-DBC2-4A2D-BA10-C425100D66DD
+        Principal: dperez-g@S19.BE
+
+  Issued                Expires               Principal
+Jul  5 15:07:59 2021  Jul  6 01:07:52 2021  krbtgt/S19.BE@S19.BE
