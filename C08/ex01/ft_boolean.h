@@ -1,9 +1,10 @@
-fndef FT_BOOLEAN_H
+#ifndef FT_BOOLEAN_H
 # define FT_BOOLEAN_H
 
 # include <unistd.h>
 
 typedef char	t_bool;
+
 # define FALSE 0
 # define TRUE 1
 
@@ -11,6 +12,6 @@ typedef char	t_bool;
 # define EVEN_MSG "I have an even number of arguments.\n"
 # define ODD_MSG "I have an odd number of arguments.\n"
 
-# define EVEN(X) ((X % 2) ? 0 : 1)
+# define EVEN(x) x % 2 == 0
 
 #endif
