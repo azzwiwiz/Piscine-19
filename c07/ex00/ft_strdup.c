@@ -6,7 +6,7 @@
 /*   By: mazzouz <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/07/28 11:59:30 by mazzouz           #+#    #+#             */
-/*   Updated: 2021/07/28 12:19:08 by mazzouz          ###   ########.fr       */
+/*   Updated: 2021/07/29 15:09:15 by mazzouz          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include <stdlib.h>
@@ -32,6 +32,5 @@ char	*ft_strdup(char	*src)
 		i++;
 	}
 	tab[i] = '\0';
-	free(tab);
 	return (tab);
 }
